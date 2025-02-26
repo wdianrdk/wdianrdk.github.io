@@ -3,9 +3,9 @@ email: yungjunghotmail@gmail.com
 description: Welcome to my personal academic website. Here, I share my research and projects in the field of data science and statistics.
 baseurl: ""
 url: "https://wdianrdk.github.io"
-twitter_username: wdianrdk
+
 github_username:  wdianrdk
-linkedin_username: wdianrdk
+linkedin_username: yung-jung-cheng-8242a913a
 
 # Build settings
 theme: minima
