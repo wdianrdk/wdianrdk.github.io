@@ -1,4 +1,7 @@
-# MFS
+---
+layout: page
+title: MFS
+---
 
 ## Map
 
