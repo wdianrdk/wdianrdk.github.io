@@ -8,7 +8,7 @@ title: MFS
 I was born and raised in Muzha, Taipei.
 
 I studied mathematics at NCTU and became a master student in mathematics at NYCU
-![MAP](image/MAP.jpg)
+![MAP](image/MAP.JPG)
 ![IMG_0189](https://github.com/user-attachments/assets/cae72c59-6c55-4ec7-a2fb-7177f1203049)
 
 ## Food
