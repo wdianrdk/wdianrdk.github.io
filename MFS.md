@@ -20,7 +20,7 @@ I studied mathematics at NCTU and became a master student in mathematics at NYCU
 
 My self-introduction on social media, translated and drawn by ChatGPT
 
-![SMILE](SMILE.png)
+![Snile](image/SMILE.png)
 
 ```
 （prompt）：
