@@ -1,6 +1,8 @@
-title: Yung-Jung Cheng's Personal Academic Website
+title: "Yung-Jung Cheng | 鄭詠融"
 email: yungjunghotmail@gmail.com
-description: Welcome to my personal academic website. Here, I share my research and projects in the field of data science and statistics.
+description: >-
+  Personal academic website of Yung-Jung Cheng, featuring applied mathematics,
+  statistics, machine learning, time series, and quantitative finance.
 baseurl: ""
 url: "https://wdianrdk.github.io"
 
@@ -12,11 +14,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Navigation order
+# Navigation order: filenames must match the actual files (including spaces/case).
 header_pages:
   - index.md
-  - About.md
-  - contact.md
+  - About me.md
   - Research.md
   - Projects.md
   - MFS.md
+  - contact.md
